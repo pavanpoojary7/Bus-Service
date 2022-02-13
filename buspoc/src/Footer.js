@@ -39,15 +39,12 @@ const headingStyle={
 export const Footer=()=>{
     return(
     <>
+
+    {/* footer details */}
     <div className="box bg-dark  " style={boxStyle}>
     <div className="container d-flex " style={containerStyle}>
         <div className="row d-flex"style={rowStyle}>
-          {/* <div className="col-3 d-flex "style={colStyle}>
-            <h1 style={headingStyle}>About Us</h1>
-            <a className="text-decoration-none" href="#" style={linkStyle}>Aim</a>
-            <a  className="text-decoration-none" href="#" style={linkStyle}>Vision</a>
-            <a  className="text-decoration-none" href="#" style={linkStyle}>Testimonials</a>
-          </div> */}
+          
           <div className="col d-flex"style={colStyle}>
             <h1  style={headingStyle}>Services</h1>
             <a  className="text-decoration-none" href="#" style={linkStyle}>Travelling</a>

@@ -8,7 +8,9 @@ export const Search=()=>{
     
 }
 
-    return(<>
+    return(
+    
+    <>
      
      <div className="container align-items-center pt-5">
       <div className="row p-3">
@@ -20,7 +22,7 @@ export const Search=()=>{
                  src="../pics/one.png"
                   alt="First slide"
                   />
-                   <p className="card-text ">BANGLORE TO KUNDAPURA</p>
+                   
                 <a href="#" className="btn btn-primary ">BOOK</a>
                   </div>
                   {/* </Carousel.Item>
@@ -32,7 +34,7 @@ export const Search=()=>{
                  src="../pics/two.png"
                  alt="Third slide"
                    />
-                     <p className="card-text ">MANGALORE TO KUNDAPURA</p>
+                    
                     <a href="#" className="btn btn-primary">BOOK</a>
                 </div> 
                 {/* </Carousel.Item> */}
@@ -44,7 +46,7 @@ export const Search=()=>{
                  src="../pics/one.png"
                  alt="Third slide"
                  />
-                   <p className="card-text ">KUNDAPURA TO BANGALORE</p>
+                   
                  <a href="#" className="btn btn-primary">BOOK</a>
                  </div>
                  {/* </Carousel.Item>
