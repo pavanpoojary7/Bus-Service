@@ -17,7 +17,7 @@
     Implementation
 
      *    Navbar menu creation using Navbar,Nav,NavDropdown,Container by importing from react-bootstrap.
-     *    Home Page(Background Image and search field) with the help of Box,Textfiled,form control.
+     *    Home Page(Background Image and search field) with the help of Box,Textfield,form control.
      *    Bus slides using Card
      *    listing the Bus Available
      *    Footer of page.
